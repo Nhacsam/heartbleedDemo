@@ -1,7 +1,7 @@
 heartbleedDemo
 ==============
 
-This repo is a minimal code to explain to heartbleed bug
+This repo is a minimal code to explain the heartbleed bug
 
 We will try to use some struct from the openssl code and the RFC 6520
 

